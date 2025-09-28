@@ -1,4 +1,6 @@
 ## A http of my own
-Hi, I'm Geoff!  Once I stepped foot into the world of Open Source Software at the age of 14, I never looked back.
+Hi, I'm Geoff!
+I stepped into the software world at the age of 13, and I never looked back.
 
-This is where my (website)[https://yoerger.me] deploys from, on Cloudflare Pages.
+(My website)[https://yoerger.me] lives here!
+Its deployed on Cloudflare Pages.
