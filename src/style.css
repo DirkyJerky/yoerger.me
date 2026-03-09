@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 @import url(https://use.fontawesome.com/releases/v5.2.0/css/all.css);
 @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css);
+
 body {
     font-family: "Montserrat", sans-serif;
     padding: 3rem 1rem;
@@ -10,36 +11,49 @@ body {
     margin-right: auto;
     padding-bottom: 100px;
 }
+
 @media (max-width: 600px) {
     body {
         max-width: 55rem;
     }
 }
+
 .heading-left {
     float: left;
 }
-.heading-left > h1 {
+
+.heading-left>h1 {
     margin: 0;
 }
-.heading-left > ul {
+
+.heading-left>ul {
     list-style-type: none;
     padding: 0;
 }
+
 img {
     float: right;
     border-radius: 15%;
 }
+
 hr {
     border: 0;
     clear: both;
 }
+
 .icon {
     font-size: 15pt;
     text-decoration: none;
 }
+
 a:visited {
     color: blue;
 }
+
 a:hover {
     color: darkblue;
+}
+
+b {
+    font-weight: bold;
 }
